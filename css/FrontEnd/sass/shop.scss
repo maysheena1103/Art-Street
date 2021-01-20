@@ -1,0 +1,27 @@
+@import "compass/reset";
+@import "compass/css3";
+
+
+.r_m_box
+	{
+
+		max-height: 1362px;
+	}
+
+.title_link_a
+	{
+		color: #0168b6;
+		font-size: 14px;
+		margin-top: 9px;
+		margin-left: 44px;
+	}
+.title_link
+	{
+		color: #0168b6;
+	}
+
+.shop_a:visited {color:#4d4d4d}
+.shop_a:link {color:#4d4d4d}
+.shop_a:active {color:#eb6100;text-decoration: underline;}
+.shop_a:hover {color:#eb6100;text-decoration: underline;}
+

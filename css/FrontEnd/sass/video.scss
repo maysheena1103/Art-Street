@@ -1,0 +1,96 @@
+@import "compass/reset";
+@import "compass/css3";
+
+.r_m_box
+	{
+		width: 628px;
+		margin-top: 60px;
+
+	}
+.r_m_table
+	{
+		width: 100%;
+		line-height: 25px;
+		font-size: 14px;
+		max-height: 760px;
+
+	}
+.td_a:visited {color:#000000}
+.td_a:link {color:#000000}
+.td_a:hover {color:#a40035}
+.td_a
+	{
+		cursor: pointer;
+		width: 100%;
+	}
+.r_m_td_a
+	{
+		width: 88.5%;
+		
+		padding-left: 3px;
+		padding-top: 8px;
+	}
+.r_m_td_b
+	{
+		width: 11.5%;
+		font-weight: 900;
+		padding-top: 8px;
+	}
+
+
+.r_m_pages
+	{
+		height: 29px;
+		margin-top: 21px;
+		margin-left: 198px;
+	}
+.change
+	{
+		width: 29px;
+	}
+.num_pages
+	{
+		border-left: 1px solid #c5c5c5;
+		border-right: 1px solid #c5c5c5;
+		width: 106px;
+		height: 100%;
+		padding-left: 13px;
+		font-size: 11px;
+	}
+.display_pages
+	{
+		width: 37px;
+		height: 100%;
+		border: 2px solid #dfdfdf;
+		margin-right: 9px;
+		font-weight: 900;
+		font-size: 13px;
+		padding-left: 6px;
+		padding-top	: 7px;
+
+	}
+.n_d_pages
+	{
+		padding-top: 11px;
+		color: #8a8a8a;
+
+	}
+
+
+
+
+.gr54rrete
+{
+	width: 33px;
+	margin-left: -6px;
+	margin-top: -6px;
+	border: 0px;
+	outline: none;
+	padding-top: 3px;
+	text-align: center;
+}
+
+
+
+
+

@@ -1,0 +1,165 @@
+@charset "UTF-8";
+/* line 17, ../../../../../../../Library/Ruby/Gems/2.0.0/gems/compass-0.12.6/frameworks/compass/stylesheets/compass/reset/_utilities.scss */
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed,
+figure, figcaption, footer, header, hgroup,
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font: inherit;
+  font-size: 100%;
+  vertical-align: baseline;
+}
+
+/* line 22, ../../../../../../../Library/Ruby/Gems/2.0.0/gems/compass-0.12.6/frameworks/compass/stylesheets/compass/reset/_utilities.scss */
+html {
+  line-height: 1;
+}
+
+/* line 24, ../../../../../../../Library/Ruby/Gems/2.0.0/gems/compass-0.12.6/frameworks/compass/stylesheets/compass/reset/_utilities.scss */
+ol, ul {
+  list-style: none;
+}
+
+/* line 26, ../../../../../../../Library/Ruby/Gems/2.0.0/gems/compass-0.12.6/frameworks/compass/stylesheets/compass/reset/_utilities.scss */
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+
+/* line 28, ../../../../../../../Library/Ruby/Gems/2.0.0/gems/compass-0.12.6/frameworks/compass/stylesheets/compass/reset/_utilities.scss */
+caption, th, td {
+  text-align: left;
+  font-weight: normal;
+  vertical-align: middle;
+}
+
+/* line 30, ../../../../../../../Library/Ruby/Gems/2.0.0/gems/compass-0.12.6/frameworks/compass/stylesheets/compass/reset/_utilities.scss */
+q, blockquote {
+  quotes: none;
+}
+/* line 103, ../../../../../../../Library/Ruby/Gems/2.0.0/gems/compass-0.12.6/frameworks/compass/stylesheets/compass/reset/_utilities.scss */
+q:before, q:after, blockquote:before, blockquote:after {
+  content: "";
+  content: none;
+}
+
+/* line 32, ../../../../../../../Library/Ruby/Gems/2.0.0/gems/compass-0.12.6/frameworks/compass/stylesheets/compass/reset/_utilities.scss */
+a img {
+  border: none;
+}
+
+/* line 116, ../../../../../../../Library/Ruby/Gems/2.0.0/gems/compass-0.12.6/frameworks/compass/stylesheets/compass/reset/_utilities.scss */
+article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section, summary {
+  display: block;
+}
+
+/* line 5, ../sass/comman.scss */
+.intro_img {
+  position: absolute;
+  width: 165px;
+  top: 21em;
+  right: 1.4em;
+}
+
+/* line 18, ../sass/comman.scss */
+.middle {
+  width: 921px;
+  margin-top: -26px;
+}
+
+/* line 25, ../sass/comman.scss */
+.left_middle {
+  width: 230px;
+}
+
+/* line 30, ../sass/comman.scss */
+.l_first_box {
+  width: 100%;
+  margin-bottom: 20px;
+}
+
+/* line 35, ../sass/comman.scss */
+.l_f_b_list {
+  width: 100%;
+}
+
+/* line 41, ../sass/comman.scss */
+.l_f_b_l_box {
+  color: #046ab8;
+  font-size: 14px;
+  height: 15px;
+  font-weight: 900;
+  margin-bottom: 16px;
+  font-family: "Microsoft Jhenghei","微軟正黑體";
+}
+
+/* line 51, ../sass/comman.scss */
+.dot {
+  width: 19px;
+}
+
+/* line 54, ../sass/comman.scss */
+.list_text:visited {
+  color: #046ab8;
+}
+
+/* line 55, ../sass/comman.scss */
+.list_text:link {
+  color: #046ab8;
+}
+
+/* line 56, ../sass/comman.scss */
+.list_text:active {
+  color: #eb6100;
+}
+
+/* line 57, ../sass/comman.scss */
+.list_text:hover {
+  color: #eb6100;
+}
+
+/* line 61, ../sass/comman.scss */
+.l_f_b_list {
+  width: 100%;
+  background: #b0dbe5;
+  padding-top: 19px;
+  padding-bottom: 3px;
+  padding-left: 18px;
+}
+
+/* line 70, ../sass/comman.scss */
+.l_second_box {
+  width: 100%;
+  margin-bottom: 45px;
+}
+
+/* line 75, ../sass/comman.scss */
+.list_art {
+  margin-bottom: 38px;
+}
+
+/* line 79, ../sass/comman.scss */
+.list_img {
+  width: 184px;
+  padding: 2px;
+  margin-left: 4px;
+  margin-bottom: 11px;
+  background-color: #ffffff;
+}
+
+/* line 99, ../sass/comman.scss */
+.right_middle {
+  width: 644px;
+  margin-left: 47px;
+}

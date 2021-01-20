@@ -1,0 +1,47 @@
+@import "compass/reset";
+@import "compass/css3";
+
+
+
+.trans
+	{
+		margin-top: 34px;
+		margin-left: 66px;
+		width: 487px;
+		margin-bottom: 22px;
+	}
+.trans_text
+	{
+		color: #434343;
+		font-size: 12px;
+		line-height: 20px;
+	}
+.orange
+	{
+		color: #eb6100;
+		font-size: 13px;
+	}
+
+.parking:visited {color:#0068b7}
+.parking:link {color:#0068b7}
+.parking:active {color:#0068b7}
+.parking:hover {color:#0068b7}
+
+
+
+.trans_text_a
+	{
+		color: #e60012;
+		font-size: 12px;
+		line-height: 25px;
+	}
+.t_t_w
+	{
+		font-weight: 900;
+		font-size: 13px;
+	}
+
+.map_d:visited {color:#0000ff;text-decoration: underline;}
+.map_d:link {color:#0000ff;text-decoration: underline;}
+.map_d:active {color:#0000ff;text-decoration: underline;}
+.map_d:hover {color:#0000ff;text-decoration: underline;}

@@ -1,0 +1,156 @@
+/* line 17, ../../../../../../../Library/Ruby/Gems/2.0.0/gems/compass-0.12.6/frameworks/compass/stylesheets/compass/reset/_utilities.scss */
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed,
+figure, figcaption, footer, header, hgroup,
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font: inherit;
+  font-size: 100%;
+  vertical-align: baseline;
+}
+
+/* line 22, ../../../../../../../Library/Ruby/Gems/2.0.0/gems/compass-0.12.6/frameworks/compass/stylesheets/compass/reset/_utilities.scss */
+html {
+  line-height: 1;
+}
+
+/* line 24, ../../../../../../../Library/Ruby/Gems/2.0.0/gems/compass-0.12.6/frameworks/compass/stylesheets/compass/reset/_utilities.scss */
+ol, ul {
+  list-style: none;
+}
+
+/* line 26, ../../../../../../../Library/Ruby/Gems/2.0.0/gems/compass-0.12.6/frameworks/compass/stylesheets/compass/reset/_utilities.scss */
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+
+/* line 28, ../../../../../../../Library/Ruby/Gems/2.0.0/gems/compass-0.12.6/frameworks/compass/stylesheets/compass/reset/_utilities.scss */
+caption, th, td {
+  text-align: left;
+  font-weight: normal;
+  vertical-align: middle;
+}
+
+/* line 30, ../../../../../../../Library/Ruby/Gems/2.0.0/gems/compass-0.12.6/frameworks/compass/stylesheets/compass/reset/_utilities.scss */
+q, blockquote {
+  quotes: none;
+}
+/* line 103, ../../../../../../../Library/Ruby/Gems/2.0.0/gems/compass-0.12.6/frameworks/compass/stylesheets/compass/reset/_utilities.scss */
+q:before, q:after, blockquote:before, blockquote:after {
+  content: "";
+  content: none;
+}
+
+/* line 32, ../../../../../../../Library/Ruby/Gems/2.0.0/gems/compass-0.12.6/frameworks/compass/stylesheets/compass/reset/_utilities.scss */
+a img {
+  border: none;
+}
+
+/* line 116, ../../../../../../../Library/Ruby/Gems/2.0.0/gems/compass-0.12.6/frameworks/compass/stylesheets/compass/reset/_utilities.scss */
+article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section, summary {
+  display: block;
+}
+
+/* line 6, ../sass/contact.scss */
+.right_middle {
+  margin-left: 49px;
+  width: 621px;
+}
+
+/* line 11, ../sass/contact.scss */
+.address {
+  width: 100%;
+  color: #070707;
+  font-size: 13px;
+  font-weight: 900;
+  padding-top: 16px;
+  padding-left: 85px;
+  line-height: 20px;
+  padding-bottom: 12px;
+}
+
+/* line 22, ../sass/contact.scss */
+.c_box {
+  width: 424px;
+  margin-top: 21px;
+  margin-left: 86px;
+  color: #4d4d4d;
+  font-size: 13px;
+}
+
+/* line 32, ../sass/contact.scss */
+.c_box_l {
+  width: 100%;
+  height: 26px;
+  margin-bottom: 28px;
+}
+
+/* line 38, ../sass/contact.scss */
+.c_box_l_a {
+  width: 100%;
+  height: 164px;
+  margin-bottom: 18px;
+}
+
+/* line 44, ../sass/contact.scss */
+.c_t {
+  /*margin-right: 17px;*/
+  padding-top: 7px;
+}
+
+/* line 49, ../sass/contact.scss */
+.c_t_a {
+  padding-top: 60px;
+}
+
+/* line 53, ../sass/contact.scss */
+.input_a {
+  width: 360px;
+  height: 25px;
+  border: 1px solid #cccccc;
+  padding-left: 3px;
+  float: right;
+}
+
+/* line 61, ../sass/contact.scss */
+.input_b {
+  width: 382px;
+  height: 25px;
+  border: 1px solid #cccccc;
+  padding-left: 3px;
+  float: right;
+}
+
+/* line 69, ../sass/contact.scss */
+.textarea {
+  width: 382px;
+  height: 164px;
+  border: 1px solid #cccccc;
+  padding: 3px;
+  float: right;
+}
+
+/* line 77, ../sass/contact.scss */
+.button {
+  background: none;
+  border: none;
+  width: 44px;
+  padding: 0px;
+}
+
+/* line 84, ../sass/contact.scss */
+.left {
+  margin-left: 18em;
+}

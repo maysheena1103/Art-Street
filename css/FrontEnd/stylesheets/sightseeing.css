@@ -1,0 +1,138 @@
+/* line 17, ../../../../../../../Users/580/Desktop/fire.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets/compass/reset/_utilities.scss */
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed,
+figure, figcaption, footer, header, hgroup,
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font: inherit;
+  font-size: 100%;
+  vertical-align: baseline;
+}
+
+/* line 22, ../../../../../../../Users/580/Desktop/fire.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets/compass/reset/_utilities.scss */
+html {
+  line-height: 1;
+}
+
+/* line 24, ../../../../../../../Users/580/Desktop/fire.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets/compass/reset/_utilities.scss */
+ol, ul {
+  list-style: none;
+}
+
+/* line 26, ../../../../../../../Users/580/Desktop/fire.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets/compass/reset/_utilities.scss */
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+
+/* line 28, ../../../../../../../Users/580/Desktop/fire.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets/compass/reset/_utilities.scss */
+caption, th, td {
+  text-align: left;
+  font-weight: normal;
+  vertical-align: middle;
+}
+
+/* line 30, ../../../../../../../Users/580/Desktop/fire.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets/compass/reset/_utilities.scss */
+q, blockquote {
+  quotes: none;
+}
+/* line 103, ../../../../../../../Users/580/Desktop/fire.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets/compass/reset/_utilities.scss */
+q:before, q:after, blockquote:before, blockquote:after {
+  content: "";
+  content: none;
+}
+
+/* line 32, ../../../../../../../Users/580/Desktop/fire.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets/compass/reset/_utilities.scss */
+a img {
+  border: none;
+}
+
+/* line 116, ../../../../../../../Users/580/Desktop/fire.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets/compass/reset/_utilities.scss */
+article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section, summary {
+  display: block;
+}
+
+/* line 6, ../sass/sightseeing.scss */
+.right_middle {
+  margin-left: 0px;
+  width: 690px;
+}
+
+/* line 11, ../sass/sightseeing.scss */
+.r_m_box {
+  margin-top: 19px;
+  width: 100%;
+  max-height: 1359px;
+}
+
+/* line 17, ../sass/sightseeing.scss */
+.r_m_box_a {
+  margin-top: -16px;
+  width: 100%;
+  max-height: 1359px;
+}
+
+/* line 23, ../sass/sightseeing.scss */
+.sightseeing_box {
+  width: 291px;
+  height: 104px;
+  margin-bottom: 29px;
+  margin-left: 43px;
+}
+
+/* line 31, ../sass/sightseeing.scss */
+.sightseeing_img {
+  width: 136px;
+  height: 100%;
+  border: 1px solid #5e5e5e;
+  background-color: #000000;
+  padding: 2px;
+  -webkit-box-shadow: 2px 2px 2px rgba(0, 0, 0, 0.4);
+  -moz-box-shadow: 2px 2px 2px rgba(0, 0, 0, 0.4);
+  box-shadow: 2px 2px 2px rgba(0, 0, 0, 0.4);
+}
+/* line 39, ../sass/sightseeing.scss */
+.sightseeing_img img {
+  height: 100%;
+}
+
+/* line 44, ../sass/sightseeing.scss */
+.sightseeing_text {
+  color: #878787;
+  width: 145px;
+  font-size: 13px;
+  line-height: 17px;
+  padding-top: 20px;
+  padding-left: 14px;
+}
+
+/* line 53, ../sass/sightseeing.scss */
+.s_t_a:visited {
+  color: #878787;
+}
+
+/* line 54, ../sass/sightseeing.scss */
+.s_t_a:link {
+  color: #878787;
+}
+
+/* line 55, ../sass/sightseeing.scss */
+.s_t_a:active {
+  color: #878787;
+}
+
+/* line 56, ../sass/sightseeing.scss */
+.s_t_a:hover {
+  color: #878787;
+}

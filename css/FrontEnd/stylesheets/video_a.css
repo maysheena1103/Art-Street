@@ -1,0 +1,186 @@
+/* line 17, ../../../../../../../Library/Ruby/Gems/2.0.0/gems/compass-0.12.6/frameworks/compass/stylesheets/compass/reset/_utilities.scss */
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed,
+figure, figcaption, footer, header, hgroup,
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font: inherit;
+  font-size: 100%;
+  vertical-align: baseline;
+}
+
+/* line 22, ../../../../../../../Library/Ruby/Gems/2.0.0/gems/compass-0.12.6/frameworks/compass/stylesheets/compass/reset/_utilities.scss */
+html {
+  line-height: 1;
+}
+
+/* line 24, ../../../../../../../Library/Ruby/Gems/2.0.0/gems/compass-0.12.6/frameworks/compass/stylesheets/compass/reset/_utilities.scss */
+ol, ul {
+  list-style: none;
+}
+
+/* line 26, ../../../../../../../Library/Ruby/Gems/2.0.0/gems/compass-0.12.6/frameworks/compass/stylesheets/compass/reset/_utilities.scss */
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+
+/* line 28, ../../../../../../../Library/Ruby/Gems/2.0.0/gems/compass-0.12.6/frameworks/compass/stylesheets/compass/reset/_utilities.scss */
+caption, th, td {
+  text-align: left;
+  font-weight: normal;
+  vertical-align: middle;
+}
+
+/* line 30, ../../../../../../../Library/Ruby/Gems/2.0.0/gems/compass-0.12.6/frameworks/compass/stylesheets/compass/reset/_utilities.scss */
+q, blockquote {
+  quotes: none;
+}
+/* line 103, ../../../../../../../Library/Ruby/Gems/2.0.0/gems/compass-0.12.6/frameworks/compass/stylesheets/compass/reset/_utilities.scss */
+q:before, q:after, blockquote:before, blockquote:after {
+  content: "";
+  content: none;
+}
+
+/* line 32, ../../../../../../../Library/Ruby/Gems/2.0.0/gems/compass-0.12.6/frameworks/compass/stylesheets/compass/reset/_utilities.scss */
+a img {
+  border: none;
+}
+
+/* line 116, ../../../../../../../Library/Ruby/Gems/2.0.0/gems/compass-0.12.6/frameworks/compass/stylesheets/compass/reset/_utilities.scss */
+article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section, summary {
+  display: block;
+}
+
+/* line 5, ../sass/video_a.scss */
+.r_m_box {
+  width: 628px;
+}
+
+/* line 10, ../sass/video_a.scss */
+.r_m_title {
+  width: 100%;
+  height: 20px;
+  margin-top: 8px;
+  font-size: 13px;
+}
+
+/* line 17, ../sass/video_a.scss */
+.r_m_img {
+  width: 21px;
+  margin-top: 1px;
+}
+
+/* line 22, ../sass/video_a.scss */
+.title_text {
+  padding-top: 1px;
+  width: 445px;
+  color: #0168b7;
+  letter-spacing: 0.6px;
+  font-weight: 900;
+  font-size: 18px;
+}
+
+/* line 32, ../sass/video_a.scss */
+.title_l_arrow {
+  width: 32px;
+}
+
+/* line 35, ../sass/video_a.scss */
+.title_l_arrow:visited {
+  color: #7a7a7a;
+}
+
+/* line 36, ../sass/video_a.scss */
+.title_l_arrow:link {
+  color: #7a7a7a;
+}
+
+/* line 37, ../sass/video_a.scss */
+.title_l_arrow:active {
+  color: #f7ba55;
+}
+
+/* line 38, ../sass/video_a.scss */
+.title_l_arrow:hover {
+  color: #f7ba55;
+}
+
+/* line 41, ../sass/video_a.scss */
+.t_ex_box {
+  padding-top: 4px;
+  padding-right: 10px;
+  border-right: 1px solid #6e6e6e;
+}
+
+/* line 47, ../sass/video_a.scss */
+.t_nx_box {
+  padding-top: 4px;
+  padding-left: 6px;
+  border-left: 1px solid #979797;
+}
+
+/* line 53, ../sass/video_a.scss */
+.video {
+  width: 469px;
+  height: 281px;
+  margin-top: 71px;
+  margin-left: 67px;
+}
+
+/* line 61, ../sass/video_a.scss */
+.video_text {
+  margin-top: 37px;
+  width: 100%;
+  line-height: 20px;
+  font-size: 12px;
+}
+
+/*3_1 css*/
+/* line 73, ../sass/video_a.scss */
+.video_a {
+  width: 578px;
+  margin-top: 59px;
+  margin-left: 20px;
+}
+
+/* line 79, ../sass/video_a.scss */
+.video_text_a {
+  margin-top: 37px;
+  width: 100%;
+  line-height: 20px;
+  font-size: 11px;
+  color: #434343;
+  letter-spacing: 1px;
+}
+
+/* line 88, ../sass/video_a.scss */
+.pink {
+  font-weight: 900;
+  color: #ea3272;
+  font-size: 13px;
+  letter-spacing: 1.5px;
+}
+
+/* line 95, ../sass/video_a.scss */
+.font {
+  color: #000000;
+  font-weight: 900;
+  font-size: 12px;
+}
+
+/* line 101, ../sass/video_a.scss */
+.blue {
+  color: #0000ff;
+}
